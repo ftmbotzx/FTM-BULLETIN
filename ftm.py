@@ -10,7 +10,7 @@ app = Client(
     "FTMBulletinBot",
     api_id=ftminfo.API_ID,
     api_hash=ftminfo.API_HASH,
-    bot_token=ftminfo.BOT_TOKEN
+    bot_token=ftminfo.TOKEN
 )
 
 start_time = time.time()
